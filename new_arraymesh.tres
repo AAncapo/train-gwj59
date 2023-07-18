@@ -1,6 +1,6 @@
 [gd_resource type="ArrayMesh" load_steps=2 format=2]
 
-[ext_resource path="res://grass.material" type="Material" id=1]
+[ext_resource path="res://blender_imports/grass.material" type="Material" id=1]
 
 [resource]
 resource_name = "grass_Plane002"

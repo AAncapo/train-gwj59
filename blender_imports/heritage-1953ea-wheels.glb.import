@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/heritage-1953ea-model2.glb-eff0dd5ed870d6698d8634db4e4ebe31.scn"
+path="res://.import/heritage-1953ea-wheels.glb-5d89c5b7770a6f043470f279d486c04b.scn"
 
 [deps]
 
-source_file="res://blender_imports/heritage-1953ea-model2.glb"
-dest_files=[ "res://.import/heritage-1953ea-model2.glb-eff0dd5ed870d6698d8634db4e4ebe31.scn" ]
+source_file="res://blender_imports/heritage-1953ea-wheels.glb"
+dest_files=[ "res://.import/heritage-1953ea-wheels.glb-5d89c5b7770a6f043470f279d486c04b.scn" ]
 
 [params]
 

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Deckard Cain rap.mp3-13bd5b955d6b15a43907dd43ce988268.mp3str"
+
+[deps]
+
+source_file="res://songs/Deckard Cain rap.mp3"
+dest_files=[ "res://.import/Deckard Cain rap.mp3-13bd5b955d6b15a43907dd43ce988268.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
