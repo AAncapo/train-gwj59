@@ -17,7 +17,6 @@ func _process(delta):
 
 func _on_Timer_timeout():
 	if current_cam:
-		$Timer.wait_time = 3.0
 		var next_cam = cameras[randi()%cameras.size()]
 		next_cam.current = true
 		current_cam.play_action(true)
