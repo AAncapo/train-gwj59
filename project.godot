@@ -14,7 +14,7 @@ _global_script_classes=[ {
 "language": "GDScript",
 "path": "res://main/cam_controller.gd"
 }, {
-"base": "HBoxContainer",
+"base": "Control",
 "class": "Spawner",
 "language": "GDScript",
 "path": "res://main/spawner.gd"
@@ -29,6 +29,10 @@ _global_script_class_icons={
 config/name="Train Rythm Game"
 run/main_scene="res://main/world.tscn"
 config/icon="res://icon.png"
+
+[autoload]
+
+Global="*res://Global.gd"
 
 [display]
 
