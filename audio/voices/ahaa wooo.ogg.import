@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ahaa wooo.ogg-4b5928640a0d29436bea3562b30038d3.oggstr"
+
+[deps]
+
+source_file="res://audio/voices/ahaa wooo.ogg"
+dest_files=[ "res://.import/ahaa wooo.ogg-4b5928640a0d29436bea3562b30038d3.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -2,7 +2,6 @@ extends AnimationPlayer
 
 func _ready():
 	play("song1")
-	pass
 
 #deckardcain_song
 #2.84

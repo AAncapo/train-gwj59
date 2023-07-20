@@ -1,15 +1,12 @@
-[gd_scene load_steps=3 format=2]
-
-[ext_resource path="res://rythm_system/arrow_slot.gd" type="Script" id=1]
+[gd_scene load_steps=2 format=2]
 
 [sub_resource type="CircleShape2D" id=10]
-radius = 20.0
+resource_local_to_scene = true
+radius = 18.0278
 
 [node name="a_slot" type="Area2D"]
+position = Vector2( 35, 35 )
 monitorable = false
-script = ExtResource( 1 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource( 10 )
-
-[connection signal="body_exited" from="." to="." method="_on_a_slot_body_exited"]

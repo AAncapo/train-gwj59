@@ -1,10 +1,10 @@
-extends Area2D
+extends TextureButton
 
-var catched: bool = false
 signal failed
+var catched: bool = false
 
 func is_success(input_name: String):
-	var obs = get_overlapping_bodies()
+	var obs = $a_slot.get_overlapping_bodies()
 	if !obs.empty() && obs[0].a_name == input_name:
 		catched = true
 		return true
