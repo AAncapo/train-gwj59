@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/horn2_normal.mp3-c395d6e92655a8467c96efa347af2785.mp3str"
+
+[deps]
+
+source_file="res://audio/horn2_normal.mp3"
+dest_files=[ "res://.import/horn2_normal.mp3-c395d6e92655a8467c96efa347af2785.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

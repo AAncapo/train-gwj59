@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/horn4_normal.mp3-9ae485a6438b25213e8bb5b5596d5ce4.mp3str"
+
+[deps]
+
+source_file="res://audio/horn4_normal.mp3"
+dest_files=[ "res://.import/horn4_normal.mp3-9ae485a6438b25213e8bb5b5596d5ce4.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
